@@ -3,8 +3,6 @@
   <img src="https://github.com/mdzulquar102-netizen/mdzulquar102-netizen/blob/main/file_000000009d30620a9b37cfa16f4bf74e.png" alt="Md Zulquarnain Ansari Banner" width="100%">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Md Zulquarnain Ansari</h1>
-<h3 align="center">⚡ Electrical Engineer | C Programmer | Tech Enthusiast ⚡</h3>
 
 ---
 
