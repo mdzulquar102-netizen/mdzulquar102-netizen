@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/mdzulquar102-netizen/mdzulquar102-netizen/blob/main/A_digital_graphic_design_banner_introduces_Md_Zulq.png" alt="Md Zulquarnain Ansari Banner" width="100%">
+</p>
 <!-- ⚡ Stylish GitHub Profile README for Md Zulquarnain Ansari -->
 
 <h1 align="center">Hi there 👋, I'm Md Zulquarnain Ansari</h1>
